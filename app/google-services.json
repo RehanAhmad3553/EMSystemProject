@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1036016159415",
+    "firebase_url": "https://expensemanagementsystem-f1038-default-rtdb.firebaseio.com",
+    "project_id": "expensemanagementsystem-f1038",
+    "storage_bucket": "expensemanagementsystem-f1038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036016159415:android:a0155d82ded5b03785db32",
+        "android_client_info": {
+          "package_name": "com.example.expensemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036016159415-reeo9j6ck5fkbsmi4otp2mb6e2f4eqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIUCtBPy1FqGkezYZhNv4NQSTAoQEau4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036016159415-reeo9j6ck5fkbsmi4otp2mb6e2f4eqo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036016159415:android:d1d8f6e37b43cb7f85db32",
+        "android_client_info": {
+          "package_name": "com.example.pdfmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036016159415-reeo9j6ck5fkbsmi4otp2mb6e2f4eqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIUCtBPy1FqGkezYZhNv4NQSTAoQEau4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036016159415-reeo9j6ck5fkbsmi4otp2mb6e2f4eqo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
