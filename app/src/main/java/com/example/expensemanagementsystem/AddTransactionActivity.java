@@ -74,6 +74,8 @@ public class AddTransactionActivity extends AppCompatActivity {
                     Toast.makeText(AddTransactionActivity.this, "Select transaction type", Toast.LENGTH_SHORT).show();
                 }
 
+                Toast.makeText(AddTransactionActivity.this, "hfofa", Toast.LENGTH_SHORT).show();
+
                 String id= UUID.randomUUID().toString();
 
                 SimpleDateFormat sdf = new SimpleDateFormat("dd MM yyyy_HH:mm", Locale.getDefault());
